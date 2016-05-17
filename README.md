@@ -57,6 +57,9 @@ Day 3., **How To Discover Product Ideas**:
     2. Look at broad categories top sellers
     3. Then drill in sub-categories to see what's dominating those areas
     4. Then, note the related searches for these sub-categories (these searches are key to getting to the 1st page!) 
+    5. Customers also viewed (write down)
+    6. Spy Hot New Releases, Top Rated, Most Wished For for product ideas
+
 
 Day 4.:
 
