@@ -1,4 +1,4 @@
-Day 1, **What You'll Learn Inside this Course**:
+Day 1., **What You'll Learn Inside this Course**:
   * The 5 Step Process
     1. Product Selection
     2. Product Sourcing
@@ -6,7 +6,7 @@ Day 1, **What You'll Learn Inside this Course**:
     4. Launch 
     5. Product Promotion
 
-Day 2, **How To Use Amazon & Sell Products**:
+Day 2., **How To Use Amazon & Sell Products**:
   * What is Amazon FBA?
     1. You ship product to Amazon warehouses
     2. Amazon picks and packs those products
@@ -43,13 +43,25 @@ Day 2, **How To Use Amazon & Sell Products**:
     3. Ship to Amazon using FBA
     4. Research NEW products
 
-Day 3, **How To Discover Product Ideas**:
+Day 3., **How To Discover Product Ideas**:
+  * Brainstorm Ideas - Write Out List!
+    1. Daily Touch List - write anything that you touch/see in your daily life
+    2. Browse eBay
+    3. Browse Amazon
+    4. QVC/HSN 
+    5. Late night infomercials
+    6. Listen to conversations - passions, hobbies, etc.
+
+  * Browsing Sites
+    1. Set aside 30 minutes to focus 
+    2. Look at broad categories top sellers
+    3. Then drill in sub-categories to see what's dominating those areas
+    4. Then, note the related searches for these sub-categories (these searches are key to getting to the 1st page!) 
+
+Day 4.:
 
 
-Day 4:
-
-
-Day 5, **Sourcing**:
+Day 5., **Sourcing**:
   1. Search for products on Alibaba.com
     * Note: possible to validate a product using aliexpress suppliers. shorter lead time + free shipping, but no customization options, etc.
   2. Use filters to find highest quality suppliers
@@ -60,16 +72,16 @@ Day 5, **Sourcing**:
   7. Work on pre-launch phase
 
 
-Day 6:
+Day 6.:
 
 
-Day 7:
+Day 7.:
 
 
-Day 8:
+Day 8.:
 
 
-Day 9:
+Day 9.:
 
 
-Day 10:
+Day 10.:
